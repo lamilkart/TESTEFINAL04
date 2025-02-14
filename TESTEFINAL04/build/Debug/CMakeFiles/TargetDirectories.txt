@@ -1,0 +1,5 @@
+C:/Users/cleul/Documents/GITHUB/TESTEFINAL04/TESTEFINAL04/build/Debug/CMakeFiles/TESTEFINAL04.dir
+C:/Users/cleul/Documents/GITHUB/TESTEFINAL04/TESTEFINAL04/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/cleul/Documents/GITHUB/TESTEFINAL04/TESTEFINAL04/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/cleul/Documents/GITHUB/TESTEFINAL04/TESTEFINAL04/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/cleul/Documents/GITHUB/TESTEFINAL04/TESTEFINAL04/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
